@@ -1,2 +1,3 @@
-# .github
-Un leeme normal y corriente, xd
+## Psych Plus Team
+
+Se esta editandose aun =p
