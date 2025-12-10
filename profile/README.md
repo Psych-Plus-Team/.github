@@ -18,7 +18,7 @@ Hello, I am [sirthegamercoder](https://github.com/sirthegamercoder) (also known 
 - And many more!
 
 # Contributions
-All new contributors are welcome to contribute by forking the GitHub repository(click [here](https://github.com/Psych-Plus-Team/FNF-PlusEngine)) and making some changes!
+All new contributors are welcome to contribute by forking the GitHub repository (click [here](https://github.com/Psych-Plus-Team/FNF-PlusEngine)) and making some changes!
 
 # Support
 Anyone can freely support the GitHub repository by clicking the Sponsor button then click the link to support Lenin Asto!
