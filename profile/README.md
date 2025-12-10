@@ -12,7 +12,7 @@ Hello, I am [sirthegamercoder](https://github.com/sirthegamercoder) (also known 
 - Many variables for window and system management in `Lua`
 - Key Viewer
 - Modchart Settings
-- New Gameplay Changers such as **No Drop Penalty** and **Perfect Only** (However, Opponent Mode is currently under maintenance)
+- New Gameplay Changers such as **No Drop Penalty** and **Perfect Only** (However, **Opponent Mode** is currently in maintenance)
 - New accuracy systems such as **Wife3**, **ITG**, **DJMAX**, **osu!**, and **Simple**, apart from **Psych**
 - Added songs with **Erect** and **Nightmare** difficulty from **V-Slice** without stages and events, only charts
 - And many more!
