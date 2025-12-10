@@ -1,5 +1,5 @@
 # Introduction
-Hello, I am [sirthegamercoder](https://github.com/sirthegamercoder) (also known as MTGC) and [Lenin Asto](https://github.com/LeninAsto) (also known as Lenin). We are the team Plus Engine.
+Hello, I am [sirthegamercoder](https://github.com/sirthegamercoder) (also known as MTGC) and [Lenin Asto](https://github.com/LeninAsto) (also known as Lenin). We are the team of Psych Plus.
 
 ---
 
