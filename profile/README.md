@@ -15,6 +15,16 @@ Hello, I am [sirthegamercoder](https://github.com/sirthegamercoder) (also known 
 - New Gameplay Changers such as **No Drop Penalty** and **Perfect Only** (However, Opponent Mode is currently under maintenance)
 - New accuracy systems such as **Wife3**, **ITG**, **DJMAX**, **osu!**, and **Simple**, apart from **Psych**
 - Added songs with **Erect** and **Nightmare** difficulty from **V-Slice** without stages and events, only charts
-- And many more
+- And many more!
 
 # Contributions
+All new contributors are welcome to contribute by forking the GitHub repository(click [here](https://github.com/Psych-Plus-Team/FNF-PlusEngine)) and making some changes!
+
+# Support
+Anyone can freely support the GitHub repository by clicking the Sponsor button then click the link to support Lenin Asto!
+
+[Click here](https://buymeacoffee.com/lenin_anonimo_of)
+
+---
+
+Thank you :)
