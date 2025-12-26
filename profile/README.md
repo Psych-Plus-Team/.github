@@ -42,7 +42,7 @@ We welcome all new contributors! If you want to help improve Plus Engine, please
 
 1.  *Fork* our GitHub repository of **[Plus Engine](https://github.com/Psych-Plus-Team/FNF-PlusEngine)**
 2. Make changes or add features you want.
-    > **Note:** You can also add music, sound effects, and easter eggs to your GitHub repository fork. If you are a translator, you can update existing languages by adding missing translations or updates, or you can add new languages.
+    > **Note:** If you are a translator, you can update existing languages by adding missing translations or updates, or you can add new languages.
 
 3. Press the *Contribute*, then press *Open pull request*.
 4. Fill in the title and description in the pull request according to the changes you have made.
