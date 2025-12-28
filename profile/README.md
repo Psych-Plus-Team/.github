@@ -57,6 +57,6 @@ If you want to support our team, please click these link to support us:
 
 * **Support Lenin Asto:** [Buy Me a Coffee](https://buymeacoffee.com/lenin_anonimo_of)
 * **Support sirthegamercoder:** [GameBanana](https://gamebanana.com/members/3015750)
-    > **Note:** Supporting me is different from supporting Lenin Asto. To support me, you must enter the number of points and a message, then press *Donate*.
+    > **Note:** To support sirthegamercoder, you must enter the number of points and a message, then press *Donate*.
 
 That's all folks! :D
