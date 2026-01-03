@@ -3,6 +3,7 @@
 ## Our Team
 * **[sirthegamercoder](https://github.com/sirthegamercoder)** (MTGC)
 * **[Lenin Asto](https://github.com/LeninAsto)** (Lenin)
+* **[Slushi-GitHub](https://github.com/Slushi-Github)** (Andres_Github)
 
 ---
 
