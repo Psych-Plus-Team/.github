@@ -34,7 +34,7 @@ We've added many new features and improvements such as:
 
 ### Additional Content
 * Added **Erect** and **Nightmare** songs difficulty from **V-Slice/Base Game**.
-    > **Note:** Only includes *charts* not *stages* and *events*. However, in future updates, *stages* and *events* will be included in addition to charts.
+    > **Note:** Only includes *charts* not *stages* and *events*. However, in future updates, *stages* and *events* will be included in addition to *charts*.
 
 ---
 
@@ -58,6 +58,6 @@ If you want to support our team, please click these link to support us:
 
 * **Support Lenin Asto:** [Buy Me a Coffee](https://buymeacoffee.com/lenin_anonimo_of)
 * **Support sirthegamercoder:** [GameBanana](https://gamebanana.com/members/3015750)
-    > **Note:** To support sirthegamercoder, you must enter the number of points and a message, then press *Donate*.
+    > **Note:** You must enter the number of points and a message, then press *Donate*.
 
 That's all folks! :D
