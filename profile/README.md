@@ -30,11 +30,11 @@ We've added many new features and improvements such as:
 ### New Gameplay Changes
 * New accuracy systems: **Wife3**, **ITG**, **DJMAX**, **osu!**, and **Simple** (in addition to the standard **Psych** system).
 * Additional *Gameplay Changers* such as **No Drop Penalty** and **Perfect Only**.  
-    > **Note:** The **Opponent Mode** feature is currently in maintenance due some bugs.
+    > **Note:** The **Opponent Mode** feature is currently in maintenance due some bugs. However, in 1.2, Opponent Mode is now back.
 
 ### Additional Content
 * Added **Erect** and **Nightmare** songs difficulty from **V-Slice/Base Game**.
-    > **Note:** Only includes *charts* not *stages* and *events*.
+    > **Note:** Only includes *charts* not *stages* and *events*. However, in future updates, *stages* and *events* will be included in addition to charts.
 
 ---
 
