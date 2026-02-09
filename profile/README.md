@@ -53,11 +53,4 @@ We appreciate every contribution you make!
 
 ---
 
-## Support
-If you want to support our team, please click these link to support us:
-
-* **Support Lenin Asto:** [Buy Me a Coffee](https://buymeacoffee.com/lenin_anonimo_of)
-* **Support sirthegamercoder:** [GameBanana](https://gamebanana.com/members/3015750)
-    > **Note:** You must enter the number of points and a message, then press *Donate*.
-
-That's all folks! :D
+*That's all folks! :D*
