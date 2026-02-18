@@ -3,6 +3,7 @@
 ## Our Team
 * **[sirthegamercoder](https://github.com/sirthegamercoder)** (MTGC)
 * **[Lenin Asto](https://github.com/LeninAsto)** (Lenin)
+* **[rey164xds](https://github.com/rey164xds)** (Legacy_Odyssey)
 * **[Slushi-GitHub](https://github.com/Slushi-Github)** (Andres_Github)
 
 ---
