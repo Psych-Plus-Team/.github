@@ -1,54 +1,34 @@
-# Welcome to this team! We are the team behind Plus Engine!
-
-## Our Team
-* **[sirthegamercoder](https://github.com/sirthegamercoder)** (MTGC)
-* **[Lenin Asto](https://github.com/LeninAsto)** (Lenin)
-* **[Autistic Lulu](https://github.com/MeguminBOT)** (Autistic Lulu)
-* **[Slushi-GitHub](https://github.com/Slushi-Github)** (Andres_Github)
-
----
-
-## Engine Overview
+# Psych Plus Team
 [Plus Engine](https://github.com/Psych-Plus-Team/FNF-PlusEngine) is an fork engine based on **Psych 1.0.4**. We will deliver better modding with improved features and great compatibility.
 
 ### Main Features
-* **Good Compatibility:** Supports mods based on **Psych 0.6.3 or 0.7.3** using hxcodec video.
-* **Multi-Platform Availability:** Available for **Windows**, **Linux**, **macOS**, **iOS**, and **Android**.
-* **Improvement Features:** Featuring enhanced features for gameplay and more.
+* **Good Compatibility:** Supports mods based on **Psych 0.6.3 or 0.7.3** using hxcodec video
+* **Multi-Platform Availability:** Available for **Windows**, **Linux**, **macOS**, **iOS**, and **Android**
+* **Improvement Features:** Featuring enhanced features for gameplay and more
 
 ---
 
 ## Features
 
-We've added many new features and improvements such as:
-
 ### System & Modchart Management
-* Many new **Lua** variables for window and system management.
-* **Lua** variables for video sprite.
-* **Key Viewer** for input tracking.
-* Custom **Modchart** settings. _(Performance may be slow on certain devices)_
+* Many new **Lua** variables for window and system management
+* **Lua** variables for video sprite
+* **Key Viewer** for input tracking
+* Custom **Modchart** settings
 
 ### New Gameplay Changes
-* New accuracy systems: **Wife3**, **ITG**, **DJMAX**, **osu!**, and **Simple** (in addition to the standard **Psych** system).
-* Additional *Gameplay Changers* such as **No Drop Penalty** and **Perfect Only**.  
-    > **Note:** The **Opponent Mode** feature is currently in maintenance due some bugs. However, in 1.2, Opponent Mode is now back.
-
-### Additional Content
-* Added **Erect** and **Nightmare** songs difficulty from **V-Slice/Base Game**.
-    > **Note:** Only includes *charts* not *stages* and *events*. However, in future updates, *stages* and *events* will be included in addition to *charts*.
+* New accuracy systems: **Wife3**, **ITG**, **DJMAX**, **osu!**, and **Simple** (in addition to **Psych** system)
+* Additional *Gameplay Changers* such as **No Drop Penalty** and **Perfect Only**. 
 
 ---
 
-## Contributions
-We welcome all new contributors! If you want to help improve Plus Engine, please follow these steps:
+## Get started
+*Fork* our GitHub repository of **[Plus Engine](https://github.com/Psych-Plus-Team/FNF-PlusEngine)** and make changes or add features you want
 
-1.  *Fork* our GitHub repository of **[Plus Engine](https://github.com/Psych-Plus-Team/FNF-PlusEngine)**
-2. Make changes or add features you want.
-    > **Note:** If you are a translator, you can update existing languages by adding missing translations or updates, or you can add new languages.
-
-3. Press the *Contribute*, then press *Open pull request*.
-4. Fill in the title and description in the pull request according to the changes you have made.
-5. Press *Create pull request* to submit.
+## Contributing
+1. Press the *Contribute*, then press *Open pull request*
+2. Fill in the title and description in the pull request
+3. Press *Create pull request* to submit
 
 We appreciate every contribution you make!
 
