@@ -16,8 +16,7 @@
 * **Key Viewer** for input tracking
 * Custom **Modchart** settings
 
-### New Gameplay Changes
-* New accuracy systems: **Wife3**, **ITG**, **DJMAX**, **osu!**, and **Simple** (in addition to **Psych** system)
+### New Gameplay Modes
 * Additional *Gameplay Changers* such as **No Drop Penalty** and **Perfect Only**. 
 
 ---
